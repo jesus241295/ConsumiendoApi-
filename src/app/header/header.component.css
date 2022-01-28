@@ -1,0 +1,15 @@
+header{
+  padding: 10px 0px;
+  text-align: center;
+  background-color: #f30502;
+ border: black 3px solid;
+
+}
+header h1{
+  text-transform: uppercase;
+  color:black;
+  letter-spacing: 4px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 50px;
+}
+
